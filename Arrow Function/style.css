@@ -1,0 +1,42 @@
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.titulo{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-size: 70px;
+}
+.tituloMenor{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-size: 50px;
+}
+section{
+    background-color: green;
+}
+.botao{
+    width: 190px;
+    height: 90px;
+    background: green;
+    color: aliceblue;
+    font-size: 20px;
+    margin: 20px;
+}
+.p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-size: 20px;
+}
+.caixa{
+    padding: 10px;
+    width: 600px;
+    background-color: transparent;
+    border: solid black 2px;
+}
+.container{
+    height: 40px;
+    width: 40px;
+    background-color: transparent;
+}
